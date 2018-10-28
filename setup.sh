@@ -5,4 +5,6 @@ unzip TrainIJCNN2013.zip
 
 rm TrainIJCNN2013.zip
 
+pip install torch
+pip install torchvision
 pip install -r requirements.txt
